@@ -1,0 +1,15 @@
+	//Folder-structure-Detail-Depth  6th Video -
+
+//	> Readme.me File About projet instruction file 
+//	> package.json is most important our project File as we all know 
+//	> package.lock.json is depth file of package.json 
+//	> .gitignore is not push we insert any folder in git ignore /node_modules
+//	> Next Config is Strict mode file for js 
+//	> Styles Folder For Css
+//	> Public Foder For images and Fonts Icons
+//	> Pages Foder For components and Api Routes
+//	> Node Modules as we know all our project packages in node modueles Folder
+
+
+//>>	package.json > dependencies File is most important file in our Project is depend on package.json file.
+ 
